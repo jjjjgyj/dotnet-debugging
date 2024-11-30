@@ -1,0 +1,57 @@
+# .NET Build Output
+bin/
+obj/
+out/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+
+# IDE files
+*.rsuser
+*.dll
+*.exe
+*.pdb
+*.cache
+*.force
+.idea/
+.vscode/
+*.ncrunch*
+
+# NuGet
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Test Results
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+
+# Local development settings
+appsettings.Development.json
+local.settings.json
